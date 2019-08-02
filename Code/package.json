@@ -1,0 +1,19 @@
+{
+  "name": "thedeep",
+  "version": "1.0.0",
+  "description": "voice facts about the deep sea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "thedeep"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-model": "^1.18.0"
+  }
+}
